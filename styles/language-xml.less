@@ -1,0 +1,18 @@
+
+@import "colors";
+
+.xml, .svg, .html, .sgml {
+
+    &.tag, &.tag.punctuation, &.tag.name {
+        color: @light-red;
+    }
+
+    &.quoted, &.string {
+        color: mix(@gold, white);
+    }
+
+    &.attribute-name {
+        color: @gold;
+    }
+
+}

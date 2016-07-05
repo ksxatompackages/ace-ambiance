@@ -1,0 +1,22 @@
+
+@import "colors";
+
+.yaml {
+
+    &.tag &.name.tag &.entity.name.tag {
+        color: @red;
+    }
+
+    &.string:not(.quoted), &.unquoted {
+        color: mix(@gold, white);
+    }
+
+    &.string:not(.unquoted), &.quoted {
+        color: mix(@green, @gold);
+    }
+
+    &.numeric {
+        color: @blue;
+    }
+
+}
