@@ -300,10 +300,15 @@ atom-text-editor .search-results .marker.current-result .region,
 }
 
 .parameters {
-    &:not(.property), & :not(.property) {
-        color: @ace-variable-text-color;
+
+    & :not(.punctuation):not(.bracket):not(.brace):not(.property) {
         font-style: italic;
     }
+
+    &:not(.property), & :not(.property) {
+        color: @ace-variable-text-color;
+    }
+
 }
 
 .none {
