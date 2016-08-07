@@ -6,23 +6,23 @@ Ace's Ambiance syntax theme for Atom
 
 ### JavaScript
 
-![JavaScript](https://github.com/ksxatompackages/ace-ambiance/blob/master/preview/js.png)
+![JavaScript](https://raw.githubusercontent.com/ksxatompackages/ace-ambiance/master/preview/js.png)
 
 ### CSS
 
-![CSS](https://github.com/ksxatompackages/ace-ambiance/blob/master/preview/css.png)
+![CSS](https://raw.githubusercontent.com/ksxatompackages/ace-ambiance/master/preview/css.png)
 
 ### LESS
 
-![LESS](https://github.com/ksxatompackages/ace-ambiance/blob/master/preview/less.png)
+![LESS](https://raw.githubusercontent.com/ksxatompackages/ace-ambiance/master/preview/less.png)
 
 ### XML/HTML
 
-![XML](https://github.com/ksxatompackages/ace-ambiance/blob/master/preview/xml.png)
+![XML](https://raw.githubusercontent.com/ksxatompackages/ace-ambiance/master/preview/xml.png)
 
 ### GitHub Flavor Markdown
 
-![Markdown](https://github.com/ksxatompackages/ace-ambiance/blob/master/preview/md.png)
+![Markdown](https://raw.githubusercontent.com/ksxatompackages/ace-ambiance/master/preview/md.png)
 
 ## License
 
